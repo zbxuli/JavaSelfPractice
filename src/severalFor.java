@@ -19,7 +19,7 @@ public class severalFor {
                 }
 
             }
-            System.out.println("及格人数" + count);
+            System.out.println("pass number" + count);
             averageGrade =grades/5;
             allAveGrade +=grades;
             System.out.println(averageGrade);
