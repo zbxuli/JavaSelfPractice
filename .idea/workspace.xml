@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cb96dbc-fad0-4dad-b008-95f5430f3c7b" name="Changes" comment="make a little app for count daily income and expense">
-      <change afterPath="$PROJECT_DIR$/src/extends_/ExtendsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends_/Graduate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends_/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends_/pupil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4cb96dbc-fad0-4dad-b008-95f5430f3c7b" name="Changes" comment="a example for extends practice">
+      <change afterPath="$PROJECT_DIR$/src/extends_/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends_/Detail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends_/ExtendsDetail.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +40,20 @@
     &quot;last_opened_file_path&quot;: &quot;D:/AnuJava&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExtendsTest">
+  <component name="RunManager" selected="Application.ExtendsDetail">
+    <configuration name="ExtendsDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extends_.ExtendsDetail" />
+      <module name="JavaHspSelfPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="extends_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExtendsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="extends_.ExtendsTest" />
       <module name="JavaHspSelfPractice" />
@@ -86,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExtendsDetail" />
         <item itemvalue="Application.ExtendsTest" />
         <item itemvalue="Application.smallChangeApp" />
         <item itemvalue="Application.severalFor" />
@@ -123,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711667563352</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="a example for extends practice">
+      <created>1712553672286</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712553672286</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,7 +158,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
     <MESSAGE value="make a little app for count daily income and expense" />
-    <option name="LAST_COMMIT_MESSAGE" value="make a little app for count daily income and expense" />
+    <MESSAGE value="a example for extends practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="a example for extends practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
