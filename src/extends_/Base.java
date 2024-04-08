@@ -10,10 +10,13 @@ public class Base {
         return n4;
     }
 
-    public Base(){
+    /*public Base(){
         System.out.println("base()");
-    }
+    }*/
 
+    public Base( String name){
+        System.out.println(name + " base()");
+    }
     public void test1(){
         System.out.println("test1");
     }
