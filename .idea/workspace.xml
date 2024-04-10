@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cb96dbc-fad0-4dad-b008-95f5430f3c7b" name="Changes" comment="Polymorphic for class Animal,Cat and OverideTest; the other classes are for method machinsim">
+    <list default="true" id="4cb96dbc-fad0-4dad-b008-95f5430f3c7b" name="Changes" comment="Polymorphic related">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphic/PolyMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphic/objectpoly_/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphic/objectpoly_/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphic/objectpoly_/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphic/objectpoly_/DynamicBinding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphic/objectpoly_/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphic/objectpoly_/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphic/objectpoly_/Pig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphic/objectpoly_/PolyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphic/objectpoly_/Rice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphic/objectpoly_/polyarray_/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphic/objectpoly_/polyarray_/PolyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphic/objectpoly_/polyarray_/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphic/objectpoly_/polyarray_/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +44,13 @@
     "last_opened_file_path": "D:/AnuJava"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DynamicBinding">
+  <component name="RunManager" selected="Application.PolyArray">
     <configuration name="DynamicBinding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="polymorphic.objectpoly_.DynamicBinding" />
       <module name="JavaHspSelfPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="polymorphic.objectpoly_.*" />
+          <option name="PATTERN" value="polymorphic.objectpoly_.polyarray_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,6 +64,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="polymorphic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphic.objectpoly_.polyarray_.PolyArray" />
+      <module name="JavaHspSelfPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polymorphic.objectpoly_.polyarray_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,20 +102,7 @@
       <module name="JavaHspSelfPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="polymorphic.objectpoly_.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VariableParameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods_.VariableParameters" />
-      <module name="JavaHspSelfPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="methods_.*" />
+          <option name="PATTERN" value="polymorphic.objectpoly_.polyarray_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PolyArray" />
         <item itemvalue="Application.DynamicBinding" />
         <item itemvalue="Application.PolyObject" />
         <item itemvalue="Application.PolyMethod" />
         <item itemvalue="Application.OverideTest" />
-        <item itemvalue="Application.VariableParameters" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712720671655</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Polymorphic related">
+      <created>1712737654102</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712737654102</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,7 +213,8 @@
     <MESSAGE value="a example for extends detail practice" />
     <MESSAGE value="a example for super() practice" />
     <MESSAGE value="Polymorphic for class Animal,Cat and OverideTest; the other classes are for method machinsim" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphic for class Animal,Cat and OverideTest; the other classes are for method machinsim" />
+    <MESSAGE value="Polymorphic related" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polymorphic related" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
