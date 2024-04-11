@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cb96dbc-fad0-4dad-b008-95f5430f3c7b" name="Changes" comment="Polymorphic used in array">
+    <list default="true" id="4cb96dbc-fad0-4dad-b008-95f5430f3c7b" name="Changes" comment="BLOCK practice">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static_/Block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static_/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static_/Singleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polymorphic/objectpoly_/DynamicBinding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polymorphic/objectpoly_/DynamicBinding.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +41,7 @@
     "last_opened_file_path": "D:/AnuJava"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Block">
+  <component name="RunManager" selected="Application.Singleton">
     <configuration name="Block" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="static_.Block" />
       <module name="JavaHspSelfPractice" />
@@ -96,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolyObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polymorphic.objectpoly_.PolyObject" />
+    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static_.Singleton" />
       <module name="JavaHspSelfPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="polymorphic.objectpoly_.polyarray_.*" />
+          <option name="PATTERN" value="static_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Singleton" />
         <item itemvalue="Application.Block" />
         <item itemvalue="Application.MainTest" />
         <item itemvalue="Application.PolyArray" />
         <item itemvalue="Application.DynamicBinding" />
-        <item itemvalue="Application.PolyObject" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712739555097</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="BLOCK practice">
+      <created>1712813543910</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712813543910</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,7 +226,8 @@
     <MESSAGE value="Polymorphic for class Animal,Cat and OverideTest; the other classes are for method machinsim" />
     <MESSAGE value="Polymorphic related" />
     <MESSAGE value="Polymorphic used in array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphic used in array" />
+    <MESSAGE value="BLOCK practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="BLOCK practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
