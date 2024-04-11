@@ -5,6 +5,7 @@ public class DynamicBinding {
         A a = new B();
         System.out.println(a.sum());
         System.out.println(a.sum1());
+
     }
 }
 class A{
