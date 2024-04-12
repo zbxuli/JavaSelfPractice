@@ -29,7 +29,7 @@ class Cat{
     1. Privatize the constructor
     2. Directly create an object within the class, which is of type static
     3. Provide a public static method to return the object
-    4.Lazy style, only returns the cat object when the user uses an individual instance,
+    4. Lazy style, only returns the cat object when the user uses an individual instance,
      and when called again later, returns the last cat object created, ensuring a singleton
     * */
     public Cat(String name) {
