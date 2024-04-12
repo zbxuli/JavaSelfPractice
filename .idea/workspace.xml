@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cb96dbc-fad0-4dad-b008-95f5430f3c7b" name="Changes" comment="Han style practice">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static_/Template/Multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static_/Template/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static_/Template/Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static_/Template/TemplateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static_/interface_/InterfaceVsExtends.java" afterDir="false" />
+    <list default="true" id="4cb96dbc-fad0-4dad-b008-95f5430f3c7b" name="Changes" comment="InterfaceVsExtends practice to know the mechanism of interface and extends">
+      <change afterPath="$PROJECT_DIR$/src/static_/interface_/InterfacePoly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/static_/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/static_/Singleton.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +40,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/AnuJava&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.InterfaceVsExtends">
+  <component name="RunManager" selected="Application.InterfacePoly">
     <configuration name="Block" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="static_.Block" />
       <module name="JavaHspSelfPractice" />
@@ -60,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceVsExtends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static_.interface_.InterfaceVsExtends" />
+    <configuration name="InterfacePoly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static_.interface_.InterfacePoly" />
       <module name="JavaHspSelfPractice" />
       <extension name="coverage">
         <pattern>
@@ -73,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static_.MainTest" />
+    <configuration name="InterfaceVsExtends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static_.interface_.InterfaceVsExtends" />
       <module name="JavaHspSelfPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static_.*" />
+          <option name="PATTERN" value="static_.interface_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterfacePoly" />
         <item itemvalue="Application.InterfaceVsExtends" />
         <item itemvalue="Application.TemplateTest" />
         <item itemvalue="Application.Singleton" />
         <item itemvalue="Application.Block" />
-        <item itemvalue="Application.MainTest" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712816885850</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="InterfaceVsExtends practice to know the mechanism of interface and extends">
+      <created>1712905495640</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712905495640</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,7 +241,8 @@
     <MESSAGE value="Polymorphic used in array" />
     <MESSAGE value="BLOCK practice" />
     <MESSAGE value="Han style practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Han style practice" />
+    <MESSAGE value="InterfaceVsExtends practice to know the mechanism of interface and extends" />
+    <option name="LAST_COMMIT_MESSAGE" value="InterfaceVsExtends practice to know the mechanism of interface and extends" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
