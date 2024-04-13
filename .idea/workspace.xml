@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cb96dbc-fad0-4dad-b008-95f5430f3c7b" name="Changes" comment="InterfaceVsExtends practice to know the mechanism of interface and extends">
-      <change afterPath="$PROJECT_DIR$/src/static_/interface_/InterfacePoly.java" afterDir="false" />
+    <list default="true" id="4cb96dbc-fad0-4dad-b008-95f5430f3c7b" name="Changes" comment="polymorphic with interface">
+      <change afterPath="$PROJECT_DIR$/src/ThrowVSTrycatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,23 +37,11 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/AnuJava&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/AnuJava&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.InterfacePoly">
-    <configuration name="Block" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static_.Block" />
-      <module name="JavaHspSelfPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="static_.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ThrowVSTrycatch">
     <configuration name="InterfacePoly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="static_.interface_.InterfacePoly" />
       <module name="JavaHspSelfPractice" />
@@ -106,13 +94,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThrowVSTrycatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThrowVSTrycatch" />
+      <module name="JavaHspSelfPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThrowVSTrycatch" />
         <item itemvalue="Application.InterfacePoly" />
         <item itemvalue="Application.InterfaceVsExtends" />
         <item itemvalue="Application.TemplateTest" />
         <item itemvalue="Application.Singleton" />
-        <item itemvalue="Application.Block" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712905495640</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="polymorphic with interface">
+      <created>1712913060006</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712913060006</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,7 +244,8 @@
     <MESSAGE value="BLOCK practice" />
     <MESSAGE value="Han style practice" />
     <MESSAGE value="InterfaceVsExtends practice to know the mechanism of interface and extends" />
-    <option name="LAST_COMMIT_MESSAGE" value="InterfaceVsExtends practice to know the mechanism of interface and extends" />
+    <MESSAGE value="polymorphic with interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="polymorphic with interface" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
