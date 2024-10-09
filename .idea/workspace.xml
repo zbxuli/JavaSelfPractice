@@ -4,9 +4,115 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cb96dbc-fad0-4dad-b008-95f5430f3c7b" name="Changes" comment="polymorphic with interface">
-      <change afterPath="$PROJECT_DIR$/src/ThrowVSTrycatch.java" afterDir="false" />
+    <list default="true" id="4cb96dbc-fad0-4dad-b008-95f5430f3c7b" name="Changes" comment="practice with exception mechanism">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ABasic1_5/Hw1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2/Hw1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2/InsertNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2/RandomArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/A03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Cale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Doctor10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/FindIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/FindMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Homework0803.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Homework0804.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Homework0805.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Homework0808.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Homework0811.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Homework0813.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Homework11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Homework13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Homework14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Hw1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Package9/Hw2encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Package9/Hw3Overwrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Package9/extends_/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Package9/hW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COOP3/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DWrapper13/Hw1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DWrapper13/Hw2VSString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DWrapper13/Hw3SB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DWrapper13/Hw4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EaCollection14/Hw1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EaCollection14/Hw1Summury.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EaCollection14/Hw2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EaCollection14/Hw2LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EaCollection14/Hw3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EaCollection14/Hw3Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EaCollection14/Hw4Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EaCollection14/Hw5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EaCollection14/Hw5Choose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EaCollection14/Hw6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EbGeneric15/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EbGeneric15/Hw1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EbGeneric15/Hw2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EbGeneric15/Hw3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EbGeneric15/Hw4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EbGeneric15/Hw6Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EbGeneric15/Hw7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EbGeneric15/HwInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FaThread16/Hw1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FaThread16/Hw2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FaThread16/Hw3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileIO17/Hw1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileIO17/Hw3Properties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileIO17/Hw4InputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileIO17/Hw5OutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileIO17/Hw6Copy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileIO17/Hw7ObjectStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileIO17/Hw8SystemStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileIO17/hw2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/HW05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/HW4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/HW6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/HW7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/HW8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Hw2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Hw3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Vehicles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dog.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nestedClass/LocalInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nestedClass/LocalInnerClass_structure.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHspSelfPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaHspSelfPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends_/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/COOP3/Package9/extends_/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends_/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/COOP3/Package9/extends_/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends_/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/COOP3/Package9/extends_/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends_/Detail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/COOP3/Package9/extends_/Detail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends_/ExtendsDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/COOP3/Package9/extends_/ExtendsDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends_/ExtendsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/COOP3/Package9/extends_/ExtendsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends_/Graduate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/COOP3/Package9/extends_/Graduate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends_/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/COOP3/Package9/extends_/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends_/SuperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/COOP3/Package9/extends_/SuperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends_/pupil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/COOP3/Package9/extends_/pupil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphic/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphic/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphic/OverideTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphic/PolyMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphic/objectpoly_/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphic/objectpoly_/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphic/objectpoly_/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphic/objectpoly_/DynamicBinding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphic/objectpoly_/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphic/objectpoly_/People.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphic/objectpoly_/Pig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphic/objectpoly_/PolyObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphic/objectpoly_/Rice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphic/objectpoly_/polyarray_/People.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphic/objectpoly_/polyarray_/PolyArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphic/objectpoly_/polyarray_/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polymorphic/objectpoly_/polyarray_/Teacher.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +122,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -34,20 +143,40 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/AnuJava&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/AnuJava/JavaHspSelfPractice&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ThrowVSTrycatch">
-    <configuration name="InterfacePoly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static_.interface_.InterfacePoly" />
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="COOP3.Package9" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Generic" />
+      <recent name="Array" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.COOP3.Function4.Hw2">
+    <configuration name="COOP3.Function4.Hw1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="COOP3.Function4.Hw1" />
       <module name="JavaHspSelfPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static_.interface_.*" />
+          <option name="PATTERN" value="COOP3.Function4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceVsExtends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static_.interface_.InterfaceVsExtends" />
+    <configuration name="COOP3.Function4.Hw2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="COOP3.Function4.Hw2" />
       <module name="JavaHspSelfPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static_.interface_.*" />
+          <option name="PATTERN" value="COOP3.Function4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static_.Singleton" />
+    <configuration name="Hw1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="COOP3.DCFunction4.Hw1" />
       <module name="JavaHspSelfPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static_.*" />
+          <option name="PATTERN" value="COOP3.DCFunction4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemplateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="static_.Template.TemplateTest" />
+    <configuration name="Hw2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="COOP3.DCFunction4.Hw2" />
       <module name="JavaHspSelfPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="static_.Template.*" />
+          <option name="PATTERN" value="COOP3.DCFunction4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,20 +223,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowVSTrycatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThrowVSTrycatch" />
+    <configuration name="Hw6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EaCollection14.Hw6" />
       <module name="JavaHspSelfPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EaCollection14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.COOP3.Function4.Hw1" />
+      <item itemvalue="Application.COOP3.Function4.Hw2" />
+      <item itemvalue="Application.Hw1" />
+      <item itemvalue="Application.Hw2" />
+      <item itemvalue="Application.Hw6" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThrowVSTrycatch" />
-        <item itemvalue="Application.InterfacePoly" />
-        <item itemvalue="Application.InterfaceVsExtends" />
-        <item itemvalue="Application.TemplateTest" />
-        <item itemvalue="Application.Singleton" />
+        <item itemvalue="Application.COOP3.Function4.Hw2" />
+        <item itemvalue="Application.COOP3.Function4.Hw1" />
+        <item itemvalue="Application.Hw2" />
+        <item itemvalue="Application.Hw1" />
+        <item itemvalue="Application.Hw6" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712913060006</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="practice with exception mechanism">
+      <created>1712989183789</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1712989183789</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,17 +394,36 @@
     <MESSAGE value="Han style practice" />
     <MESSAGE value="InterfaceVsExtends practice to know the mechanism of interface and extends" />
     <MESSAGE value="polymorphic with interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="polymorphic with interface" />
+    <MESSAGE value="practice with exception mechanism" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice with exception mechanism" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/smallChange/smallChangeApp.java</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FileIO17/Hw4InputStream.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DWrapper13/Hw1.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
